@@ -1,0 +1,13 @@
+name: Airstrike
+main: airstrike.Airstrike
+version: 1.0
+author: muCkk
+commands:
+  as:
+    description: Makes messages colorful
+    usage: |
+             /as <tnt/cr> <player> <amount> <height>
+  asset:
+      description: Used to set up the config
+      usage: |
+              /asset <key> <value>
